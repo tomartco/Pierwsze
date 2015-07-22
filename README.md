@@ -1,2 +1,1 @@
-# Pierwsze
-Moje pierwsze repozytorium
+Jakis tam tekst
